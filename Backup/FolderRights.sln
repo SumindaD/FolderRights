@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderRights", "FolderRights\FolderRights.csproj", "{3E787525-17DE-427C-9FBA-484DBBF13CD0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupApp", "SetupApp\SetupApp.vdproj", "{114DC942-DE50-4770-8C4F-15A3BB721F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetAccessRights", "SetAccessRights\SetAccessRights.csproj", "{44842911-159F-47D0-AB9B-C78C3873EC28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E787525-17DE-427C-9FBA-484DBBF13CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E787525-17DE-427C-9FBA-484DBBF13CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E787525-17DE-427C-9FBA-484DBBF13CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E787525-17DE-427C-9FBA-484DBBF13CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114DC942-DE50-4770-8C4F-15A3BB721F39}.Debug|Any CPU.ActiveCfg = Debug
+		{114DC942-DE50-4770-8C4F-15A3BB721F39}.Release|Any CPU.ActiveCfg = Release
+		{44842911-159F-47D0-AB9B-C78C3873EC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44842911-159F-47D0-AB9B-C78C3873EC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44842911-159F-47D0-AB9B-C78C3873EC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44842911-159F-47D0-AB9B-C78C3873EC28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

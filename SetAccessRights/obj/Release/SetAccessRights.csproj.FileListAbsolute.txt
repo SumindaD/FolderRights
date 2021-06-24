@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\FolderRights\FolderRights\SetAccessRights\bin\Release\SetAccessRights.exe
+C:\Users\User\Downloads\FolderRights\FolderRights\SetAccessRights\bin\Release\SetAccessRights.pdb
+C:\Users\User\Downloads\FolderRights\FolderRights\SetAccessRights\obj\Release\SetAccessRights.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\FolderRights\FolderRights\SetAccessRights\obj\Release\SetAccessRights.exe
+C:\Users\User\Downloads\FolderRights\FolderRights\SetAccessRights\obj\Release\SetAccessRights.pdb
+D:\Code\FolderRights\FolderRights\SetAccessRights\bin\Release\SetAccessRights.exe
+D:\Code\FolderRights\FolderRights\SetAccessRights\bin\Release\SetAccessRights.pdb
+D:\Code\FolderRights\FolderRights\SetAccessRights\obj\Release\SetAccessRights.csproj.CoreCompileInputs.cache
+D:\Code\FolderRights\FolderRights\SetAccessRights\obj\Release\SetAccessRights.exe
+D:\Code\FolderRights\FolderRights\SetAccessRights\obj\Release\SetAccessRights.pdb
+D:\Code\FolderRights\FolderRights\SetAccessRights\bin\Release\SetAccessRights.exe.config

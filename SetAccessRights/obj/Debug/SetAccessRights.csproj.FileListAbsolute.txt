@@ -1,0 +1,6 @@
+D:\Code\FolderRights\FolderRights\SetAccessRights\bin\Debug\SetAccessRights.exe.config
+D:\Code\FolderRights\FolderRights\SetAccessRights\bin\Debug\SetAccessRights.exe
+D:\Code\FolderRights\FolderRights\SetAccessRights\bin\Debug\SetAccessRights.pdb
+D:\Code\FolderRights\FolderRights\SetAccessRights\obj\Debug\SetAccessRights.csproj.CoreCompileInputs.cache
+D:\Code\FolderRights\FolderRights\SetAccessRights\obj\Debug\SetAccessRights.exe
+D:\Code\FolderRights\FolderRights\SetAccessRights\obj\Debug\SetAccessRights.pdb

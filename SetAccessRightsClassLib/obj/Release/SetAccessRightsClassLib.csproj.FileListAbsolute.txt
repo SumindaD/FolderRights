@@ -1,0 +1,5 @@
+D:\Code\FolderRights\FolderRights\SetAccessRightsClassLib\bin\Release\SetAccessRightsClassLib.dll
+D:\Code\FolderRights\FolderRights\SetAccessRightsClassLib\bin\Release\SetAccessRightsClassLib.pdb
+D:\Code\FolderRights\FolderRights\SetAccessRightsClassLib\obj\Release\SetAccessRightsClassLib.csproj.CoreCompileInputs.cache
+D:\Code\FolderRights\FolderRights\SetAccessRightsClassLib\obj\Release\SetAccessRightsClassLib.dll
+D:\Code\FolderRights\FolderRights\SetAccessRightsClassLib\obj\Release\SetAccessRightsClassLib.pdb
